@@ -5,11 +5,6 @@
 
 [![Website](https://img.shields.io/badge/Website-skunkei.com-58A6FF?style=for-the-badge&logo=globe&logoColor=white)](https://skunkei.com)
 
-<br/>
-
-[![Instagram](https://img.shields.io/badge/@theskunkei-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theskunkei)
-[![X](https://img.shields.io/badge/@theskunkei-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/theskunkei)
-
 </div>
 
 ---
