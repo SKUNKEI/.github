@@ -1,7 +1,7 @@
 # SKUNKEI
 
 <p align="center">
-  <img src="logos/SKUNKEI.png" alt="SKUNKEI" width="220">
+  <img src="logo.png" alt="SKUNKEI" width="220">
 </p>
 
 <p align="center"><strong>Digital services for everyday needs and specialist work.</strong></p>
